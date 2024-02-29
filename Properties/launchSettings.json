@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Take Break 5 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Take Break 5 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
